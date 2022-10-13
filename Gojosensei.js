@@ -1745,15 +1745,13 @@ break
                 for (let i of anu) {
                     await sleep(1500)
                     let btn = [{
-                                urlButton: {
-                                    displayText: '「 رابط الاستقبال 」「📌」◣',
-                                    url: `${sc}`
-                                }
-                            }, {
-                                urlButton: {
-                                    displayText: '「 قناتي 」「📍」◣',
-                                    url: `${myweb}`
-                                }
+                             
+                                    
+                                  
+                                
+                                    
+                                   
+                                
                             }, {
                                 quickReplyButton: {
                                     displayText: '「 القائمة 」「🗒️」◣',
@@ -1765,7 +1763,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 غوجو ساتورو موجود 🎉 」\n\n${text}`
+                      let txt = `「 عمك ايزن 🎉 」\n\n${text}`
                       GojoMdNx.send5ButImg(i, txt, GojoMdNx.user.name, global.thumb, btn)
                     }
                 reply(`「 تم  ✌ 」◣`)
@@ -1799,7 +1797,7 @@ break
                                     id: 'owner'
                                 }
                             }]
-                      let txt = `「 غوجو ساتورو موجود 🎉」\n\n${text}`
+                      let txt = `「عمك ايزن 🎉」\n\n${text}`
                       GojoMdNx.send5ButImg(yoi, txt, GojoMdNx.user.name, global.thumb, btn)
 		}
 		reply('「 تم 🤗 」◣')
