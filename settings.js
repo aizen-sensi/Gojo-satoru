@@ -21,7 +21,7 @@ global.APIKeys = {
 //customize settings\\
 global.owner = ['20 155 277 2267']
 global.premium = ['20 155 277 2267']
-global.ownernomer = '920 155 277 2267'
+global.ownernomer = '20 155 277 2267'
 global.ownername = '( الـمـطـور )'
 global.botname = '( بـوت ايزن )'
 global.footer = '( ايزن )'
